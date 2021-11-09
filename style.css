@@ -1,0 +1,17 @@
+.bloque{
+    background-image: url("img/imagen2.jpeg");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+}
+.lol{
+    height: 385px;
+    width: 400px;
+    margin: auto;
+}
+.body{
+    background-color: rgb(132, 130, 255);
+}
+.container{
+    box-shadow: 10px 6px 100px rgb(26, 26, 26);
+}
