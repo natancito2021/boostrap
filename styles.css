@@ -1,0 +1,52 @@
+.titulo1{
+    background: linear-gradient(0deg, rgba(195,34,34,1) 0%, rgba(253,187,45,1) 100%);
+    text-align: center;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 2em;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    height: 150px;
+}
+.logo{
+  /*  width: auto;
+    height: auto;*/
+    max-width: 100px;
+    max-height: 48px;
+}
+body{
+    background-image: url("img/hamburguesas_papas_refresco.webp");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-size: cover;
+}
+.titulo{
+    background: linear-gradient(0deg, rgba(253,187,45,1) 0%, rgba(195,34,34,1) 100%);
+    border-radius: 20px;
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 2em;
+    margin-top: 20px;
+}
+.boton{
+    background: linear-gradient(0deg, rgba(195,34,34,1) 0%, rgba(253,187,45,1) 100%);
+    
+}
+.accordion-item{
+    margin-top: 20px;
+}
+.botontex{
+    background: linear-gradient(0deg, rgba(253,187,45,1) 0%, rgba(195,34,34,1) 100%);
+}
+.imagen{
+    background-repeat: no-repeat;
+background-position-x: center;
+background-size: cover;
+height: 400px; 
+width: 350px;
+margin-top: 20px;
+}
+.footer{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 1.5em;
+    background: linear-gradient(0deg, rgba(195,34,34,1) 0%, rgba(253,187,45,1) 100%);
+}
